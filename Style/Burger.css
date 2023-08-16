@@ -60,6 +60,11 @@
     width: 50%;
   }
 }
+@media (min-width: 566px) {
+  .burger {
+    width: 40%;
+  }
+}
 @media (min-width: 765px) {
   .burger {
     width: 30%;
@@ -76,7 +81,7 @@
     width: 15%;
   }
 }
-@media (min-width: 192012px) {
+@media (min-width: 1920px) {
   .burger {
     width: 10%;
   }
